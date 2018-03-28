@@ -2,6 +2,12 @@
 
 A script for Adobe Illustrator that converts the names of selected objects at once.
 
+[この README の日本語版はこちらで読めます](https://github.com/kawmra/rename-objects/blob/master/README.ja.md)
+
+# Downlaod
+
+Clone this repository or [download as a zip](https://github.com/kawmra/rename-layers/archive/master.zip).
+
 # How to use
 
 1. Select the object (s) you want to change the name
