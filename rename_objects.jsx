@@ -25,7 +25,7 @@ function main() {
 function replaceObjectNames(items, before, after) {
     for (var i = 0, len = items.length; i < len; i++) {
         var item = items[i];
-        item.name = item.name.replace(before, after);
+        item.name = item.name.split(before).join(after);
     }
 }
 
